@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Exercicio2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Exercicio2"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8"/>
+        <CursorPos X="12" Y="18"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="3" Column="9" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="44" Column="47" TopLine="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="33" Column="12" TopLine="23"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="42" Column="15" TopLine="26"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="52" Column="5" TopLine="37"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="18" Column="20" TopLine="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="99" Column="77" TopLine="80"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="83" Column="28" TopLine="73"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="94" Column="45" TopLine="84"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="92" Column="45" TopLine="77"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

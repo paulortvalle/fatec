@@ -1,0 +1,29 @@
+program ExemploStr;
+//
+
+uses crt;
+var a:string;
+    i:real;
+
+    s1:string;
+    s2:string;
+    s3:string;
+
+begin
+
+  write('Digite um numero: ');
+  readln(i);
+
+  str(i:0:2, a);
+
+  writeln('O valor de i: ', i);
+  writeln('O valor de a: ', a);
+
+  s1 := 'teste';
+  s2 := 'legal';
+  s3 := s1 + ' ' + s2;
+  writeln(s3);
+
+  readkey;
+
+end.

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1162572796"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi &quot;-FiD:\OneDrive\FATEC\1SEM\Algoritimos e Lógica de Programação\PASCAL\03032 - Meu Nome\lib\i386-win32&quot; &quot;-FuD:\OneDrive\FATEC\1SEM\Algoritimos e Lógica de Programação\PASCAL\03032 - Meu Nome\&quot; &quot;-FUD:\OneDrive\FATEC\1SEM\Algoritimos e Lógica de Programação\PASCAL\03032 - Meu Nome\lib\i386-win32\&quot; -l MeuNome.lpr"/>
+</CONFIG>

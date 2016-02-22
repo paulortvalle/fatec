@@ -1,0 +1,23 @@
+program ExemploPos;
+// Busca a primeira string na segunda e retorna a posição inicial da variavel
+uses crt;
+var
+  a: string;
+  b: string;
+  c: integer;
+
+begin
+
+  write('Digite a primeira string: ');
+  readln(a);
+
+  write('Digite a segunda string: ');
+  readln(b);
+
+  c := pos(a, b);
+  write(c);
+
+  readkey;
+
+end.
+
