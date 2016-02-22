@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445867543 source:c:\maromo\1026-l10\exerciciofechamento\main.c
+	<stdio.h>
+	<stdlib.h>
+

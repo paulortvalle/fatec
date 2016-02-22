@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Estrutura de Repetição Ini/Estrutura de Repetição Ini.cbp" />
+		<Project filename="Estrutura de Repetição ZERO/Estrutura de Repetição ZERO.cbp" />
+		<Project filename="For com Iteração Dupla/For com Iteração Dupla.cbp" />
+		<Project filename="Estrutura de For/Estrutura de For.cbp" />
+		<Project filename="For Infinito/For Infinito.cbp" />
+		<Project filename="For sem conteudo/For sem conteudo.cbp" />
+		<Project filename="While Infinito/While Infinito.cbp" />
+		<Project filename="Exemplo de Do/Exemplo de Do.cbp" />
+		<Project filename="Exercicio 1/Exercicio 1.cbp" />
+		<Project filename="Exemplo 2/Exemplo 2.cbp" />
+		<Project filename="Exercicio 3/Exercicio 3.cbp" />
+		<Project filename="Exercicio 4/Exercicio 4.cbp" />
+		<Project filename="Exemplo Break/Exemplo Break.cbp" />
+		<Project filename="Exemplo Continue/Exemplo Continue.cbp" />
+		<Project filename="Exemplo Incremento/Exemplo Incremento.cbp" />
+		<Project filename="Exercicio 5/Exercicio 5.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

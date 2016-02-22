@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445252872 source:d:\onedrive\fatec\2sem\linguagem de programação\1013 exercicio para nota\ordenador de array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

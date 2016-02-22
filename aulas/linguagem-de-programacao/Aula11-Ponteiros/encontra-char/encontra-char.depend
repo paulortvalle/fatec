@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447674899 source:c:\maromo\1116-ponteiros\encontra-char\main.c
+	<stdio.h>
+	<stdlib.h>
+

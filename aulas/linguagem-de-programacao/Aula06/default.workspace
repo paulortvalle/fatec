@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Exemplo01 - Vetor/Exemplo01 - Vetor.cbp" />
+		<Project filename="Exemplo02 - Vetor com lixo/Exemplo02 - Vetor com lixo.cbp" />
+		<Project filename="Exemplo03 - Vetor com break/Exemplo03 - Vetor com break.cbp" />
+		<Project filename="Exemplo04 - Contador Diferente/Exemplo04 - Contador Diferente.cbp" />
+		<Project filename="Exercicio01/Exercicio01.cbp" />
+		<Project filename="Exercicio02/Exercicio02.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Aula 3">
+		<Project filename="Entrada de Dados/Entrada de Dados.cbp" />
+		<Project filename="Tabela Ascii/Tabela Ascii.cbp" />
+		<Project filename="Exemplo de IF/Exemplo de IF.cbp" />
+		<Project filename="Exemplo de IF 2/Exemplo de IF 2.cbp" />
+		<Project filename="Exemplo de IF com 1 linha/Exemplo de IF com 1 linha.cbp" />
+		<Project filename="Exemplo de Switch/Exemplo de Switch.cbp" />
+		<Project filename="Exercicio 1/Exercicio 1.cbp" />
+		<Project filename="Exercicio 2/Exercicio 2.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

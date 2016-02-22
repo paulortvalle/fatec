@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1444057265 source:d:\onedrive\fatec\2sem\linguagem de programação\1005 aula 8\comparação de strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1444053285 source:d:\onedrive\fatec\2sem\linguagem de programação\1005 aula 8\comparação de strings\funcao1.c
+	<stdio.h>
+	<stdlib.h>
+
+1444053210 d:\onedrive\fatec\2sem\linguagem de programação\1005 aula 8\comparação de strings\funcao1.c
+	<stdio.h>
+	<stdlib.h>
+

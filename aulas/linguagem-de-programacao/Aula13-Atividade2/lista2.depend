@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445813689 source:c:\maromo\lista2\funcoes.c
+
+1445813102 source:c:\maromo\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+
